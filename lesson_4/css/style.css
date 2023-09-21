@@ -1,0 +1,126 @@
+@import url("reset.css");
+
+a { 
+   color: blue;
+}
+
+mark {
+   color: blue;
+}
+
+.main-title {
+   color: dodgerblue;
+}
+
+.subtitle {
+   color: yellow;
+}
+
+.usage {
+   color: green;
+}
+
+#bike {
+   color: darkorchid;
+}
+
+div.features {
+   color: rebeccapurple;
+}
+
+div.highlights {
+   color: lightsalmon;
+}
+
+.text.text1 {
+   color: lightgreen;
+}
+
+.text-review,
+.text-review2 {
+   color: hotpink;
+}
+
+a {
+   color: blue;
+}
+
+.usage a {
+   color: green;
+}
+
+.text * {
+   color: rebeccapurple;
+}
+
+.text > p {
+   color: red;
+}
+
+.text1 + p {
+   color: tomato;
+}
+
+ul.list {
+   color: goldenrod;
+}
+
+.text1 h2 {
+   color: lime;
+}
+
+.text h3 {
+   color: gray;
+}
+
+.usage a {
+   color: lightskyblue;
+}
+
+ol.characteristics {
+   color: #0000ff;
+}
+
+.characteristics .handling {
+   color: hotpink;
+}
+
+.highlights .list {
+   color: teal;
+}
+
+.text_1 {
+   color: deepskyblue;
+}
+
+.text-review2 p {
+   color: gold;
+}
+
+.text-review2 > h2 + p {
+   color: lightgreen;
+}
+
+.user-opinion .opinion {
+   color: magenta;
+}
+
+.user-opinion h2 {
+   color: red;
+}
+
+.contacts .about-us{
+   color: wheat;
+}
+
+.user-opinion > p {
+   color: #0000ff;
+}
+
+.opinion + p {
+   color: darkgreen;
+}
+
+.user-opinion ~ p {
+   color: black;
+}
